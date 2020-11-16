@@ -1,0 +1,62 @@
+Time: 2020-11-15-21.48.35
+Event:
+ Got connection from ('192.168.0.118', 63166)
+Receiving...
+Done Receiving
+Thank you for connecting
+
+
+
+
+Time: 2020-11-15-21.48.35
+Hello, server
+Sending...
+Sending...
+Done Sending
+Duration of operation: 0.008402347564697266 secondsTime: 2020-11-15-21.48.35
+Command: Upload
+
+
+
+
+Time: 2020-11-15-21.50.37
+Event:
+Got connection from ('192.168.0.118', 63172)
+Receiving...
+Done Receiving
+Thank you for connecting
+
+
+
+
+Time: 2020-11-15-21.50.37
+Command: Upload
+Hello, server
+Sending...
+Sending...
+Done Sending
+Duration of operation: 0.008694887161254883 seconds
+
+
+
+
+Time: 2020-11-16-10.58.29
+Command: Upload
+Hello, server
+Sending...
+Sending...
+Done Sending
+Duration of operation: 0.009011030197143555 seconds
+
+
+
+Time: 2020-11-16-10.58.29
+Event:
+Got connection from ('192.168.0.118', 50187)
+Receiving...
+Done Receiving
+Thank you for connecting
+
+
+
+
